@@ -1,0 +1,9 @@
+# Clean URL redirects for Render static hosting
+# Generated: 2026-05-19T14:25:46.547Z
+# Generated during publish asset refresh
+
+# Dynamic routes - serve dedicated HTML templates for dynamic paths
+/product/*  /product.html  200!
+/category/*  /category.html  200!
+/en/product/*  /product.html  200!
+/en/category/*  /category.html  200!
