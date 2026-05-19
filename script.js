@@ -11691,13 +11691,14 @@ function fixContrast(){
   setTimeout(patch, 250);
   setTimeout(patch, 1500);
 })();
-/* ZAPPY_CHECKOUT_FOCUS_UX_V1 */
+/* ZAPPY_CHECKOUT_FOCUS_UX_V2 */
 (function(){
-  if (window.__zappyCheckoutFocusUX >= 1) return;
-  window.__zappyCheckoutFocusUX = 1;
+  if (window.__zappyCheckoutFocusUX >= 2) return;
+  window.__zappyCheckoutFocusUX = 2;
 
   var CSS =
-    'body.zappy-cart-open #cc-main{visibility:hidden!important;opacity:0!important;pointer-events:none!important}' +
+    'body.zappy-cart-open #cc-main,body.zappy-cart-open #zappy-cookie-banner{display:none!important;visibility:hidden!important;opacity:0!important;pointer-events:none!important}' +
+    'body.zappy-checkout-page #zappy-cookie-banner{display:none!important;visibility:hidden!important;opacity:0!important;pointer-events:none!important}' +
     'body.zappy-checkout-page nav.navbar:not(.zappy-catalog-menu) .nav-menu,' +
     'body.zappy-checkout-page nav.navbar:not(.zappy-catalog-menu) .nav-links,' +
     'body.zappy-checkout-page nav.navbar:not(.zappy-catalog-menu) .nav-cta,' +
@@ -11750,10 +11751,13 @@ function fixContrast(){
   }
 
   function injectCss() {
-    if (document.getElementById('zappy-checkout-focus-ux-css')) return;
+    var existing = document.getElementById('zappy-checkout-focus-ux-css');
+    if (existing && existing.getAttribute('data-v') === '2') return;
+    if (existing) existing.remove();
     var style = document.createElement('style');
     style.id = 'zappy-checkout-focus-ux-css';
     style.setAttribute('data-zappy-runtime', 'checkout-focus');
+    style.setAttribute('data-v', '2');
     style.textContent = CSS;
     (document.head || document.documentElement).appendChild(style);
   }

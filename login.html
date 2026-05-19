@@ -1001,9 +1001,10 @@ html[dir="rtl"] body {
       @media (min-width: 769px) {
         #mic-access-tool-general-button, .mic-access-tool-general-button,
         #mic-init-access-tool .mic-access-tool-general-button, #mic-init-access-tool #mic-access-tool-general-button,
-        ._access-icon, #mic-access-tool-box, .mic-access-tool-box,
-        #mic-init-access-tool #mic-access-tool-box, div[id*="mic-access-tool-box"], ._access-menu {
-          display: none !important; visibility: hidden !important; opacity: 0 !important; pointer-events: none !important;
+        ._access-icon { display: flex !important; visibility: visible !important; opacity: 1 !important; pointer-events: auto !important; }
+        #mic-access-tool-box.opened-mic-access-tool, .mic-access-tool-box.opened-mic-access-tool,
+        #mic-init-access-tool #mic-access-tool-box.opened-mic-access-tool {
+          visibility: visible !important; opacity: 1 !important; pointer-events: auto !important;
         }
       }
     </style>
@@ -1875,7 +1876,7 @@ html[dir="rtl"] body {
       "gallery_h3_8": "ייחוד בלתי ניתן לשכפול",
       "gallery_h3_9": "עיצוב נקי עם נשמה חמה",
       "gallery_p_13": "DP STUDIO",
-      "gallery_p_14": "כל תמונה כאן היא רגע - פריט מגש ריזין ובטון שנח על שיש קר, פריט דקורציה שמצא את מקומו ליד אור חם, מתנה שעטופה בשקט ובכוונה. הגלריה שלנו מזמינה אתכם להתבונן בחומרים, במרקמים ובאסתטיקה שמאחורי כל פריט יחיד במינו",
+      "gallery_p_14": "כל תמונה כאן היא רגע - פריט מגש ריזין ובטון שנח על שיש קר, פריט דקורציה שמצא את מקומו ליד אור חם, מתנה שעטופה בשקט ובכוונה. הגלריה שלנו מזמינה אתכם להתבונן בחומרים, במרקמים ובאסתטיקה שמאחורי כל פריט יחיד במינו.",
       "gallery_p_15": "התמונות מציגות אווירה, מיקום בחלל וגימור — לא רק מוצר. כל פריט מדקורציה מבטון וריזין צולם בסביבה ביתית טבעית, כדי שתוכלו לדמיין אותו בבית שלכם.",
       "gallery_p_16": "כל פריט מגלה את עצמו מקרוב — מרקם, גימור וייחוד שנוצרו בידיים",
       "gallery_p_17": "שכבות הבטון נשמרות גלויות ומכוונות — כל נקבובית ורצועה היא חלק מהסיפור של הפריט.",
@@ -3620,7 +3621,7 @@ html[dir="rtl"] body {
       "gallery_h3_8": "Unreplicable Uniqueness",
       "gallery_h3_9": "Clean Design with a Warm Soul",
       "gallery_p_13": "DP STUDIO",
-      "gallery_p_14": "Every image here is a moment - a resin and concrete tray item resting on cold marble, a decorative piece that found its place next to warm light, a gift wrapped in silence and intention. Our gallery invites you to observe the materials, textures, and aesthetics behind each unique item",
+      "gallery_p_14": "Every image here is a moment - a resin and concrete tray item resting on cold marble, a decorative piece that found its place beside warm light, a gift wrapped in quiet intention. Our gallery invites you to observe the materials, textures, and aesthetics behind each unique item.",
       "gallery_p_15": "The images showcase atmosphere, spatial placement, and finishing — not just a product. Each concrete and resin decorative item was photographed in a natural home environment, so you can envision it in your own home.",
       "gallery_p_16": "Each item reveals itself up close — texture, finish, and uniqueness created by hand",
       "gallery_p_17": "The concrete layers are kept exposed and intentional — every pore and streak is part of the item's story.",
