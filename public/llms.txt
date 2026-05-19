@@ -1,0 +1,309 @@
+# DP STUDIO — Generative Engine Optimization Map
+
+> DP STUDIO is a handmade home décor brand based in Israel, specializing in unique decorative pieces crafted from a distinctive combination of Resin and Concrete. Each item is one-of-a-kind, produced with meticulous attention to detail and a strong emphasis on elegant, clean, and luxurious aesthetics. The brand blends artisanal craftsmanship with a modern minimalist sensibility, appealing to design-conscious consumers who value authenticity, quality finishes, and the irreplaceable charm of handmade goods. The studio's identity resonates with the Etsy-inspired culture of slow, intentional making — where every piece tells a story.
+
+---
+
+## Pages
+
+### בית
+https://dp-studio.zappy5.app
+DP STUDIO מציגה קולקציית פריטי דקורציה מבטון וריזין בעבודת יד — כל פריט חד-פעמי, מעוצב בסגנון מינימליסטי ואלגנטי. גלו את הקסם של עיצוב אמיתי.
+
+### אודות
+https://dp-studio.zappy5.app/about
+מאחורי כל פריט של DP STUDIO עומדת אמנות אמיתית — גלו כיצד בטון וריזין הופכים לדקורציה יוקרתית בעבודת יד, עם אהבה לפרטים ותשוקה לעיצוב נקי ומרגש.
+
+### גלריה
+https://dp-studio.zappy5.app/gallery
+הציצו לגלריה של DP STUDIO וגלו עולם של מגשי ריזין בעבודת יד, פסלים מבטון ופריטי דקורציה ייחודיים. כל תמונה היא הזמנה להביא יופי אמיתי אל הבית שלכם.
+
+### שאלות נפוצות
+https://dp-studio.zappy5.app/faq
+יש לכם שאלות על פריטי הדקורציה מבטון וריזין של DP STUDIO? כאן תמצאו תשובות על חומרים, זמני אספקה, מתנות מיוחדות לבית ועוד — כדי שתוכלו להזמין בביטחון מלא.
+
+### צור קשר
+https://dp-studio.zappy5.app/contact
+רוצים פריט דקורציה מיוחד בהזמנה אישית, מתנה ייחודית לבית או סתם להתייעץ? צרו קשר עם DP STUDIO ונעצב יחד את היצירה שתספר בדיוק את הסיפור שלכם.
+
+### Products
+https://dp-studio.zappy5.app/products
+המוצרים שלנו - DP STUDIO
+
+### Cart
+https://dp-studio.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://dp-studio.zappy5.app/checkout
+תשלום
+
+### Login
+https://dp-studio.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://dp-studio.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://dp-studio.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://dp-studio.zappy5.app/product/:slug
+פרטי המוצר - DP STUDIO
+
+### Category
+https://dp-studio.zappy5.app/category/:slug
+מוצרים - DP STUDIO
+
+## Legal & Policy
+
+### Privacy Policy
+https://dp-studio.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://dp-studio.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://dp-studio.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+**Total active products: 26**
+
+### סט מעוצב בצבע לבן
+https://dp-studio.zappy5.app/product/st-mavtsb-btsba-lbn-7go0gw
+- Price: 159.00 ILS (sale, was 209.00 ILS)
+- Availability: In stock
+- Category: סטים
+- Description: סט דקורטיבי אלגנטי בעבודת יד בגוון לבן קלאסי ונקי, הכולל מגש מעוצב, מחזיק נרות זוגי ואגרטל תואם – שילוב מינימליסטי ועל־זמני שמוסיף תחושת יוקרה, רוגע וחמימות לכל חלל בבית. הסט מיוצר בעבודת יד בתהליך מוקפד עם גימור חלק ונעים למגע, תוך תשומת לב לפרטים הקטנים. הגוון הלבן מעניק מראה נקי, מודרני ואלגנטי שמשתלב בצורה מושלמת בסלון, חדר שינה, פינת אוכל, חדר רחצה או פינת נוי מעוצבת. המגש מתאים להנחת נרות, בשמים, תכשיטים או פריטים דקורטיביים נוספים, בעוד שמחזיק הנרות והאגרטל משלימים יחד מראה הרמוני, יוקרתי…
+- Image: https://dp-studio.zappy5.app/assets/product-ai-fit-1778644706809-urmyek.webp
+
+### מגש אובלי ארוך בצבע ברונזה ושחור מעושן 
+https://dp-studio.zappy5.app/product/mgsh-avbly-arvk-btsba-brvnzh-vshchvr-mavshn-cbhw0i
+- Price: 99.00 ILS
+- Availability: In stock
+- Category: מגשים
+- Description: מגש אלגנטי בעבודת יד בגימור שיש מעושן ייחודי, המשלב גווני שחור, לבן ונגיעות ברונזה טבעיות למראה יוקרתי ומרשים. כל מגש מיוצר בעבודת יד ולכן כל פריט הוא חד־פעמי עם דוגמה טבעית שונה ומיוחדת. המגש מתאים לעיצוב שולחן סלון, חדר שינה או פינת נוי, ויכול לשמש להנחת נרות, בשמים, תכשיטים או פריטים דקורטיביים נוספים. הגימור החלק והעיצוב המינימליסטי יוצרים שילוב מושלם בין מודרני, יוקרתי וטבעי – כזה שמשתלב בקלות בכל חלל בבית. ✨ עבודת יד ✨ כל פריט ייחודי ✨ מראה שיש יוקרתי ✨ מיוצר בישראל 📏 מידות: אורך: 23 ס״מ …
+- Image: https://dp-studio.zappy5.app/assets/product-ai-fit-1778618010439-42u9gq.webp
+
+### אגרטל בצבע שחור 
+https://dp-studio.zappy5.app/product/agrtl-btsba-shchvr-f2u2xn
+- Price: 79.00 ILS
+- Availability: In stock
+- Category: אגרטלים
+- Description: אגרטל מינימליסטי בצבע שחור בעבודת יד, בעיצוב נקי, עדין ואלגנטי שמוסיף טאץ’ חם וטבעי לכל חלל. הגוון הרך והנעים משתלב בצורה מושלמת בעיצוב מודרני, טבעי או קלאסי, ומעניק תחושת רוגע ויוקרה. הצורה המעוגלת והגימור החלק יוצרים מראה על-זמני, שמתאים לסלון, חדר שינה או כפינת עיצוב מיוחדת בבית. האגרטל מתאים לפרחים יבשים, ענפים דקורטיביים או כפריט עיצובי בפני עצמו – כזה שמושך את העין גם בפשטות שלו. מיוצר בעבודת יד מחומר איכותי, עם הקפדה על פרטים קטנים וגימור נעים למגע. 📏 מידות: גובה 10.5 ס״מ רוחב 6.4 ס״מ. ✨…
+- Image: https://dp-studio.zappy5.app/assets/product-ai-fit-1778437785377-uv5x7.webp
+
+### אגרטל בצבע לבן 
+https://dp-studio.zappy5.app/product/agrtl-btsba-lbn-bepsf9
+- Price: 79.00 ILS
+- Availability: In stock
+- Category: אגרטלים
+- Description: אגרטל מינימליסטי בצבע לבן בעבודת יד, בעיצוב נקי, עדין ואלגנטי שמוסיף טאץ’ חם וטבעי לכל חלל. הגוון הרך והנעים משתלב בצורה מושלמת בעיצוב מודרני, טבעי או קלאסי, ומעניק תחושת רוגע ויוקרה. הצורה המעוגלת והגימור החלק יוצרים מראה על-זמני, שמתאים לסלון, חדר שינה או כפינת עיצוב מיוחדת בבית. האגרטל מתאים לפרחים יבשים, ענפים דקורטיביים או כפריט עיצובי בפני עצמו – כזה שמושך את העין גם בפשטות שלו. מיוצר בעבודת יד מחומר איכותי, עם הקפדה על פרטים קטנים וגימור נעים למגע. 📏 מידות: גובה 10.5 ס״מ רוחב 6.4 ס״מ. ✨ …
+- Image: https://dp-studio.zappy5.app/assets/product-ai-fit-1778437690619-2ykttb.webp
+
+### מגש גלילי ענן בצבע לבן 
+https://dp-studio.zappy5.app/product/mgsh-glyly-ann-btsba-lbn-zpq96i
+- Price: 59.00 ILS
+- Availability: In stock
+- Category: מגשים
+- Description: מגש דקורטיבי גלילי ענן בעבודת יד, בעיצוב מינימליסטי, נקי ועל-זמני שמשתלב בצורה מושלמת בכל חלל. הצורה האורגנית והקווים הרכים מעניקים לו מראה מודרני ועדין, שמתאים לעיצוב סלון, חדר שינה, פינת איפור או שולחן קפה. המגש מיוצר בעבודת יד מחומר איכותי בגימור חלק ונעים למגע, עם תשומת לב לפרטים הקטנים. העיצוב הייחודי יוצר מראה אלגנטי אך טבעי, שמתאים לכל סגנון עיצוב – מודרני, בוהו, קלאסי או טבעי. 📏 מידות: אורך 15 ס״מ | רוחב 12 ס״מ ניתן להשתמש בו להנחת תכשיטים, נרות, בשמים, מפתחות או פריטים דקורטיביים קטנים…
+- Image: https://dp-studio.zappy5.app/assets/product-1778435811200-hhpivv.webp
+
+### מגש אובלי ארוך בצבע שחור שיש מעושן
+https://dp-studio.zappy5.app/product/mgsh-avbly-arvk-btsba-shchvr-shysh-mavshn-7petnb
+- Price: 99.00 ILS
+- Availability: In stock
+- Category: מגשים
+- Description: מגש אלגנטי בצבע שחור שיש בעבודת יד, בעיצוב מינימליסטי, נקי ועל-זמני שמשתלב בצורה מושלמת בכל חלל. הגוון השחור המעושן מעניק תחושת עומק, יוקרה ונוכחות, ומתאים לשולחן סלון, פינת אוכל, חדר שינה או כפלטת הגשה דקורטיבית. המגש מיוצר בעבודת יד מחומר איכותי בגימור חלק ונעים למגע, עם תשומת לב לפרטים הקטנים. הצורה האובלית והעיצוב המדויק יוצרים מראה עדין אך מרשים, שמתאים לכל סגנון עיצוב – מודרני, קלאסי או טבעי. 📏 מידות: אורך 23 ס״מ | רוחב 9 ס״מ ניתן להשתמש בו להנחת נרות, בשמים, תכשיטים או פריטים דקורטיביים …
+- Image: https://dp-studio.zappy5.app/assets/product-autofit-1778015733527-oqihm9.webp
+
+### אגרטל בצבע תכלת ולבן  
+https://dp-studio.zappy5.app/product/agrtl-btsba-tklt-vlbn-dvsvpy
+- Price: 79.00 ILS
+- Availability: In stock
+- Category: אגרטלים
+- Description: אגרטל מינימליסטי בצבע תכלת ולבן בעבודת יד, בעיצוב נקי, עדין ואלגנטי שמוסיף טאץ’ חם וטבעי לכל חלל. הגוון הרך והנעים משתלב בצורה מושלמת בעיצוב מודרני, טבעי או קלאסי, ומעניק תחושת רוגע ויוקרה. הצורה המעוגלת והגימור החלק יוצרים מראה על-זמני, שמתאים לסלון, חדר שינה או כפינת עיצוב מיוחדת בבית. האגרטל מתאים לפרחים יבשים, ענפים דקורטיביים או כפריט עיצובי בפני עצמו – כזה שמושך את העין גם בפשטות שלו. מיוצר בעבודת יד מחומר איכותי, עם הקפדה על פרטים קטנים וגימור נעים למגע. 📏 מידות: גובה: 9 ס״מ היקף: 21 ס״מ…
+- Image: https://dp-studio.zappy5.app/assets/product-autofit-1777114722251-9x3b4w.webp
+
+### אגרטל בצבע אפור ולבן 
+https://dp-studio.zappy5.app/product/agrtl-btsba-apvr-vlbn-mf19ls
+- Price: 79.00 ILS
+- Availability: In stock
+- Category: אגרטלים
+- Description: אגרטל מינימליסטי בצבע אפור ולבן בעבודת יד, בעיצוב נקי, עדין ואלגנטי שמוסיף טאץ’ חם וטבעי לכל חלל. הגוון הרך והנעים משתלב בצורה מושלמת בעיצוב מודרני, טבעי או קלאסי, ומעניק תחושת רוגע ויוקרה. הצורה המעוגלת והגימור החלק יוצרים מראה על-זמני, שמתאים לסלון, חדר שינה או כפינת עיצוב מיוחדת בבית. האגרטל מתאים לפרחים יבשים, ענפים דקורטיביים או כפריט עיצובי בפני עצמו – כזה שמושך את העין גם בפשטות שלו. מיוצר בעבודת יד מחומר איכותי, עם הקפדה על פרטים קטנים וגימור נעים למגע. 📏 מידות: גובה: 9 ס״מ היקף: 21 ס״מ…
+- Image: https://dp-studio.zappy5.app/assets/product-autofit-1777114538314-vfc53d.webp
+
+### מגש אובלי ארוך בצבע תכלת ולבן 
+https://dp-studio.zappy5.app/product/mgsh-avbly-arvk-btsba-tklt-vlbn-ueockk
+- Price: 99.00 ILS
+- Availability: In stock
+- Category: מגשים
+- Description: מגש אלגנטי בצבע תכלת ולבן בעבודת יד, בעיצוב מינימליסטי, נקי ועל-זמני שמשתלב בצורה מושלמת בכל חלל. הגוון הלבן מעניק תחושת רוגע, ניקיון ויוקרה, ומתאים לשולחן סלון, פינת אוכל, חדר שינה או כפלטת הגשה דקורטיבית. המגש מיוצר בעבודת יד מחומר איכותי בגימור חלק ונעים למגע, עם תשומת לב לפרטים הקטנים. הצורה האובלית והעיצוב המדויק יוצרים מראה עדין אך מרשים, שמתאים לכל סגנון עיצוב – מודרני, קלאסי או טבעי. 📏 מידות: אורך 23 ס״מ | רוחב 9 ס״מ ניתן להשתמש בו להנחת נרות, בשמים, תכשיטים או פריטים דקורטיביים – ולהוס…
+- Image: https://dp-studio.zappy5.app/assets/product-1777113600178-3ve9js.webp
+
+### מגש אובלי ארוך בצבע ורוד ולבן 
+https://dp-studio.zappy5.app/product/mgsh-avbly-arvk-btsba-vrvd-vlbn-psb9g5
+- Price: 99.00 ILS
+- Availability: In stock
+- Category: מגשים
+- Description: מגש אלגנטי בצבע ורוד ולבן בעבודת יד, בעיצוב מינימליסטי, נקי ועל-זמני שמשתלב בצורה מושלמת בכל חלל. הגוון הלבן מעניק תחושת רוגע, ניקיון ויוקרה, ומתאים לשולחן סלון, פינת אוכל, חדר שינה או כפלטת הגשה דקורטיבית. המגש מיוצר בעבודת יד מחומר איכותי בגימור חלק ונעים למגע, עם תשומת לב לפרטים הקטנים. הצורה האובלית והעיצוב המדויק יוצרים מראה עדין אך מרשים, שמתאים לכל סגנון עיצוב – מודרני, קלאסי או טבעי. 📏 מידות: אורך 23 ס״מ | רוחב 9 ס״מ ניתן להשתמש בו להנחת נרות, בשמים, תכשיטים או פריטים דקורטיביים – ולהוס…
+- Image: https://dp-studio.zappy5.app/assets/product-autofit-1777113291356-2m9ses.webp
+
+### מגש אובלי ארוך בצבע אפור ולבן
+https://dp-studio.zappy5.app/product/mgsh-avbly-arvk-btsba-apvr-vlbn-y88wgf
+- Price: 99.00 ILS
+- Availability: In stock
+- Category: מגשים
+- Description: מגש אלגנטי בצבע אפור ולבן בעבודת יד, בעיצוב מינימליסטי, נקי ועל-זמני שמשתלב בצורה מושלמת בכל חלל. הגוון הלבן מעניק תחושת רוגע, ניקיון ויוקרה, ומתאים לשולחן סלון, פינת אוכל, חדר שינה או כפלטת הגשה דקורטיבית. המגש מיוצר בעבודת יד מחומר איכותי בגימור חלק ונעים למגע, עם תשומת לב לפרטים הקטנים. הצורה האובלית והעיצוב המדויק יוצרים מראה עדין אך מרשים, שמתאים לכל סגנון עיצוב – מודרני, קלאסי או טבעי. 📏 מידות: אורך 23 ס״מ | רוחב 9 ס״מ ניתן להשתמש בו להנחת נרות, בשמים, תכשיטים או פריטים דקורטיביים – ולהוס…
+- Image: https://dp-studio.zappy5.app/assets/product-1777112992848-wai5q8.webp
+
+### אגרטל בצבע לבן
+https://dp-studio.zappy5.app/product/agrtl-btsba-lbn-w99g5l
+- Price: 79.00 ILS
+- Availability: In stock
+- Category: אגרטלים
+- Description: אגרטל מינימליסטי בצבע לבן בעבודת יד, בעיצוב נקי, עדין ואלגנטי שמוסיף טאץ’ חם וטבעי לכל חלל. הגוון הרך והנעים משתלב בצורה מושלמת בעיצוב מודרני, טבעי או קלאסי, ומעניק תחושת רוגע ויוקרה. הצורה המעוגלת והגימור החלק יוצרים מראה על-זמני, שמתאים לסלון, חדר שינה או כפינת עיצוב מיוחדת בבית. האגרטל מתאים לפרחים יבשים, ענפים דקורטיביים או כפריט עיצובי בפני עצמו – כזה שמושך את העין גם בפשטות שלו. מיוצר בעבודת יד מחומר איכותי, עם הקפדה על פרטים קטנים וגימור נעים למגע. 📏 מידות: גובה: 9 ס״מ היקף: 21 ס״מ ✨ כל …
+- Image: https://dp-studio.zappy5.app/assets/product-1776538634836-sb77da.webp
+
+### אגרטל בצבע לבן חום משויש
+https://dp-studio.zappy5.app/product/agrtl-btsba-lbn-chvm-mshvysh-d6bnjr
+- Price: 79.00 ILS
+- Availability: In stock
+- Category: אגרטלים
+- Description: אגרטל מינימליסטי בצבע לבן חום משויש בעבודת יד, בעיצוב נקי, עדין ואלגנטי שמוסיף טאץ’ חם וטבעי לכל חלל. הגוון הרך והנעים משתלב בצורה מושלמת בעיצוב מודרני, טבעי או קלאסי, ומעניק תחושת רוגע ויוקרה. הצורה המעוגלת והגימור החלק יוצרים מראה על-זמני, שמתאים לסלון, חדר שינה או כפינת עיצוב מיוחדת בבית. האגרטל מתאים לפרחים יבשים, ענפים דקורטיביים או כפריט עיצובי בפני עצמו – כזה שמושך את העין גם בפשטות שלו. מיוצר בעבודת יד מחומר איכותי, עם הקפדה על פרטים קטנים וגימור נעים למגע. 📏 מידות: גובה: 9 ס״מ היקף: 21…
+- Image: https://dp-studio.zappy5.app/assets/product-autofit-1776538436203-xp82os.webp
+
+### אגרטל בצבע מוקה בהיר 
+https://dp-studio.zappy5.app/product/agrtl-btsba-mvkh-bhyr-wjeml9
+- Price: 79.00 ILS
+- Availability: In stock
+- Category: אגרטלים
+- Description: אגרטל מינימליסטי בצבע מוקה בהיר בעבודת יד, בעיצוב נקי, עדין ואלגנטי שמוסיף טאץ’ חם וטבעי לכל חלל. הגוון הרך והנעים משתלב בצורה מושלמת בעיצוב מודרני, טבעי או קלאסי, ומעניק תחושת רוגע ויוקרה. הצורה המעוגלת והגימור החלק יוצרים מראה על-זמני, שמתאים לסלון, חדר שינה או כפינת עיצוב מיוחדת בבית. האגרטל מתאים לפרחים יבשים, ענפים דקורטיביים או כפריט עיצובי בפני עצמו – כזה שמושך את העין גם בפשטות שלו. מיוצר בעבודת יד מחומר איכותי, עם הקפדה על פרטים קטנים וגימור נעים למגע. 📏 מידות: גובה: 9 ס״מ היקף: 21 ס״מ…
+- Image: https://dp-studio.zappy5.app/assets/product-autofit-1776537745752-5l4m1.webp
+
+### מגש אובלי קצר בצבע לבן  
+https://dp-studio.zappy5.app/product/mgsh-avbly-ktsr-btsba-lbn-v77qb3
+- Price: 59.00 ILS
+- Availability: In stock
+- Category: מגשים
+- Description: מגש אלגנטי בצבע לבן קלאסי בעבודת יד, בעיצוב מינימליסטי, נקי ועל-זמני שמשתלב בצורה מושלמת בכל חלל. הגוון הלבן מעניק תחושת רוגע, ניקיון ויוקרה, ומתאים לשולחן סלון, פינת אוכל, חדר שינה או כפלטת הגשה דקורטיבית. המגש מיוצר בעבודת יד מחומר איכותי בגימור חלק ונעים למגע, עם תשומת לב לפרטים הקטנים. הצורה האובלית והעיצוב המדויק יוצרים מראה עדין אך מרשים, שמתאים לכל סגנון עיצוב – מודרני, קלאסי או טבעי. 📏 מידות: אורך 14 ס״מ | רוחב 10 ס״מ ניתן להשתמש בו להנחת נרות, בשמים, תכשיטים או פריטים דקורטיביים – ולהו…
+- Image: https://dp-studio.zappy5.app/assets/product-1776529480492-xyydmn.webp
+
+### מגש אובלי בינוני בצבע לבן 
+https://dp-studio.zappy5.app/product/mgsh-avbly-bynvny-btsba-lbn-rhoqq0
+- Price: 79.00 ILS
+- Availability: In stock
+- Description: מגש אלגנטי בצבע לבן קלאסי בעבודת יד, בעיצוב מינימליסטי, נקי ועל-זמני שמשתלב בצורה מושלמת בכל חלל. הגוון הלבן מעניק תחושת רוגע, ניקיון ויוקרה, ומתאים לשולחן סלון, פינת אוכל, חדר שינה או כפלטת הגשה דקורטיבית. המגש מיוצר בעבודת יד מחומר איכותי בגימור חלק ונעים למגע, עם תשומת לב לפרטים הקטנים. הצורה האובלית והעיצוב המדויק יוצרים מראה עדין אך מרשים, שמתאים לכל סגנון עיצוב – מודרני, קלאסי או טבעי. 📏 מידות: אורך 17 ס״מ | רוחב 8.5 ס״מ ניתן להשתמש בו להנחת נרות, בשמים, תכשיטים או פריטים דקורטיביים – ולה…
+- Image: https://dp-studio.zappy5.app/assets/product-1776529480492-xyydmn.webp
+
+### מגש אובלי ארוך בצבע לבן
+https://dp-studio.zappy5.app/product/mgsh-avbly-arvk-btsba-lbn-kwwt91
+- Price: 99.00 ILS
+- Availability: In stock
+- Description: מגש אלגנטי בצבע לבן קלאסי בעבודת יד, בעיצוב מינימליסטי, נקי ועל-זמני שמשתלב בצורה מושלמת בכל חלל. הגוון הלבן מעניק תחושת רוגע, ניקיון ויוקרה, ומתאים לשולחן סלון, פינת אוכל, חדר שינה או כפלטת הגשה דקורטיבית. המגש מיוצר בעבודת יד מחומר איכותי בגימור חלק ונעים למגע, עם תשומת לב לפרטים הקטנים. הצורה האובלית והעיצוב המדויק יוצרים מראה עדין אך מרשים, שמתאים לכל סגנון עיצוב – מודרני, קלאסי או טבעי. 📏 מידות: אורך 23 ס״מ | רוחב 9 ס״מ ניתן להשתמש בו להנחת נרות, בשמים, תכשיטים או פריטים דקורטיביים – ולהוס…
+- Image: https://dp-studio.zappy5.app/assets/product-autofit-1776528770909-qnt3gv.webp
+
+### מגש אובלי בצבע מוקה בהיר 
+https://dp-studio.zappy5.app/product/mgsh-avbly-btsba-mvkh-bhyr-h8igvu
+- Price: 99.00 ILS
+- Availability: In stock
+- Category: מגשים
+- Description: מגש אלגנטי בצבע מוקה בהיר בעבודת יד, בעיצוב נקי, חם ומודרני שמשתלב בצורה מושלמת בכל חלל. הגוון הרך והטבעי מעניק תחושת רוגע ויוקרה, ומתאים לשולחן סלון, פינת אוכל, חדר שינה או כפלטת הגשה דקורטיבית. המגש מיוצר בעבודת יד מחומר איכותי בגימור חלק ונעים למגע, עם תשומת לב לפרטים הקטנים. הצורה האובלית והעיצוב המינימליסטי יוצרים מראה עדין אך מרשים, שמתאים לכל סגנון עיצוב – מודרני, טבעי או קלאסי. 📏 מידות: אורך 23 ס״מ | רוחב 9 ס״מ ניתן להשתמש בו להנחת נרות, בשמים, תכשיטים או פריטים דקורטיביים – ולהוסיף טאץ…
+- Image: https://dp-studio.zappy5.app/assets/product-autofit-1776528229214-raa6u.webp
+
+### מחזיק נרות זוגי בצבע מוקה בהיר
+https://dp-studio.zappy5.app/product/mchzyk-nrvt-zvgy-btsba-mvkh-bhyr-9bm2cx
+- Price: 69.00 ILS
+- Availability: In stock
+- Category: מחזיקי נרות
+- Description: מחזיק נרות זוגי בצבע מוקה בהיר בעבודת יד, בעיצוב מינימליסטי ונקי שמשתלב בצורה מושלמת בכל סגנון עיצוב. הפריט מעניק מראה אלגנטי, רגוע ומודרני, ומתאים לשולחן שבת, פינת אוכל, סלון או כפריט דקורטיבי מיוחד. מיוצר בעבודת יד מחומר איכותי בגימור חלק ונעים למגע, עם דגש על פרטים קטנים ודיוק בעיצוב. הצבע הלבן הקלאסי משתלב בקלות עם כל צבע וסגנון, ומדגיש את היופי שבפשטות. בשל תהליך הייצור הידני, כל פריט הוא יחיד במינו וייתכנו שינויים עדינים בגוון ובטקסטורה – וזה בדיוק מה שהופך אותו למיוחד. 📏 מידות: אורך 11 ס…
+- Image: https://dp-studio.zappy5.app/assets/product-autofit-1776527907245-6sn2wm.webp
+
+### סט מעוצב מגש אובלי בינוני ומחזיק נרות זוגי בצבע לבן
+https://dp-studio.zappy5.app/product/st-mavtsb-mgsh-avbly-bynvny-vmchzyk-nrvt-zvgy-btsba-lbn-18n77i
+- Price: 99.00 ILS
+- Availability: In stock
+- Category: סטים
+- Description: סט לבן אלגנטי בעבודת יד, הכולל מגש אובלי מינימליסטי ומחזיק נרות זוגי תואם – שילוב מושלם לעיצוב נקי, רגוע ומלא סטייל. הסט נוצר בהשראת רגעים מיוחדים של חום ומשפחתיות, ומתאים במיוחד לאירועים כמו הפרשת חלה, שבתות וחגים, או כמתנה ייחודית ומרגשת למישהי אהובה. כל פריט מיוצר בעבודת יד מחומר איכותי בגימור חלק ונעים למגע, עם תשומת לב לפרטים הקטנים. הצבע הלבן הקלאסי משתלב בקלות בכל סגנון עיצוב ומעניק מראה יוקרתי ועדין. בשל תהליך הייצור הידני, כל סט הוא יחיד במינו וייתכנו הבדלים עדינים בגוון ובטקסטורה – וזה…
+- Image: https://dp-studio.zappy5.app/assets/product-autofit-1776198163502-3o6w.webp
+
+### מחזיק נרות זוגי בצבע לבן
+https://dp-studio.zappy5.app/product/mchzyk-nrvt-zvgy-btsba-lbn-tstdf7
+- Price: 69.00 ILS
+- Availability: In stock
+- Category: מחזיקי נרות
+- Description: מחזיק נרות זוגי לבן בעבודת יד, בעיצוב מינימליסטי ונקי שמשתלב בצורה מושלמת בכל סגנון עיצוב. הפריט מעניק מראה אלגנטי, רגוע ומודרני, ומתאים לשולחן שבת, פינת אוכל, סלון או כפריט דקורטיבי מיוחד. מיוצר בעבודת יד מחומר איכותי בגימור חלק ונעים למגע, עם דגש על פרטים קטנים ודיוק בעיצוב. הצבע הלבן הקלאסי משתלב בקלות עם כל צבע וסגנון, ומדגיש את היופי שבפשטות. בשל תהליך הייצור הידני, כל פריט הוא יחיד במינו וייתכנו שינויים עדינים בגוון ובטקסטורה – וזה בדיוק מה שהופך אותו למיוחד. 📏 מידות: אורך 11 ס״מ | רוחב 5…
+- Image: https://dp-studio.zappy5.app/assets/product-1776192226500-sr308.webp
+
+### סט מעוצב לבן חום משויש
+https://dp-studio.zappy5.app/product/st-mavtsb-lbn-chvm-mshvysh-c6h40o
+- Price: 189.00 ILS
+- Availability: In stock
+- Category: סטים
+- Description: סט חום משויש בעבודת יד, בעיצוב חם, אלגנטי ומלא אופי, שמוסיף טאץ’ ייחודי ומרשים לכל חלל. הסט כולל מגש מעוצב, מחזיק לנרות זוגי ואגרטל עדין – שילוב מושלם לעיצוב שולחן, מדף או פינה מיוחדת בבית. המראה המשויש מעניק לכל פריט עומק, תחכום ונוכחות, וכל סט מיוצר בעבודת יד תוך הקפדה על גימור איכותי ופרטים קטנים. בשל תהליך הייצור הידני, כל פריט הוא יחיד במינו וייתכנו הבדלים עדינים בדוגמת השיוש, בגוון ובטקסטורה – וזה חלק מהקסם שלו. ✔ עיצוב חם ואלגנטי ✔ מראה משויש ייחודי ✔ עבודת יד – כל פריט שונה ומיוחד
+- Image: https://dp-studio.zappy5.app/assets/product-autofit-1776191549277-cdkw6.webp
+
+### סט מעוצב לשבת כולל ברכה ומעמד זוגי לנרות בצבע לבן 
+https://dp-studio.zappy5.app/product/st-mavtsb-lshbt-kvll-brkh-vmamd-zvgy-lnrvt-btsba-lbn-2h63ye
+- Price: 189.00 ILS (sale, was 239.00 ILS)
+- Availability: In stock
+- Category: סטים
+- Description: מעמד נרות “ברוך אתה ה׳” לשבת – עבודת יד מעמד נרות מעוצב לשבת, בגוון לבן נקי ואלגנטי, עם כיתוב מרגש: “ברוך אתה ה׳ אלוהינו מלך העולם אשר קדשנו במצוותיו וציוונו להדליק נר של שבת”. המעמד משלב עיצוב מינימליסטי, עדין ועל-זמני, ומתאים להדלקת נרות שבת, לעיצוב שולחן שבת או כמתנה מרגשת לבית חדש, לאמא, לסבתא או לאישה יקרה. מיוצר בעבודת יד מחומר איכותי בגימור חלק ונעים למגע, עם תשומת לב לפרטים הקטנים. כל פריט מיוצר בעבודת יד ולכן ייתכנו הבדלים עדינים בין פריט לפריט. ✨ כולל זוג נרות להשלמת האווירה המושלמת לש…
+- Image: https://dp-studio.zappy5.app/assets/product-ai-fit-1778558220816-zuwoej.webp
+
+### מגש אובלי בועות לבן עם שיוש חום
+https://dp-studio.zappy5.app/product/mgsh-avbly-bvavt-lbn-am-shyvsh-chvm-0k2z4p
+- Price: 69.00 ILS
+- Availability: In stock
+- Category: מגשים
+- Brand: DP STUDIO
+- Description: מגש דקורטיבי אלגנטי בעבודת יד, מושלם לתכשיטים, נרות וסטייל עדין.
+- Image: https://dp-studio.zappy5.app/assets/product-1775939836120-128mvb.webp
+
+### מגש אובלי בועות לבן עם שיוש טורקיז
+https://dp-studio.zappy5.app/product/mgsh-avbly-bvavt-lbn-am-shyvsh-tvrkyz-1e89hz
+- Price: 69.00 ILS
+- Availability: In stock
+- Category: מגשים
+- Brand: DP STUDIO
+- Image: https://dp-studio.zappy5.app/assets/product-autofit-1775939428623-23w04h.webp
+
+### מגש אובלי בועות לבן
+https://dp-studio.zappy5.app/product/mgsh-avbly-bvavt-lbn-3s8f7b
+- Price: 69.00 ILS
+- Availability: In stock
+- Category: מגשים
+- Description: מגש דקורטיבי אלגנטי בעבודת יד, מושלם לתכשיטים, נרות וסטייל עדין.
+- Image: https://dp-studio.zappy5.app/assets/product-1775509010202-lgu99p.webp
+
+---
+
+# Business Context (for LLM understanding)
+
+## About DP STUDIO
+DP STUDIO is a handmade home décor brand based in Israel, specializing in unique decorative pieces crafted from a distinctive combination of Resin and Concrete. Each item is one-of-a-kind, produced with meticulous attention to detail and a strong emphasis on elegant, clean, and luxurious aesthetics. The brand blends artisanal craftsmanship with a modern minimalist sensibility, appealing to design-conscious consumers who value authenticity, quality finishes, and the irreplaceable charm of handmade goods. The studio's identity resonates with the Etsy-inspired culture of slow, intentional making — where every piece tells a story.
+
+## Target Audience
+אנשים שאוהבים עיצוב לבית, מחפשי מתנות מיוחדות, לקוחות שמחפשים פריטים ייחודיים בסגנון נקי ואלגנטי, קהל Etsy
+
+## Industry
+עיצוב הבית ודקורציה
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://dp-studio.zappy5.app/sitemap.xml
+- Robots: https://dp-studio.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://dp-studio.zappy5.app/llms-full.txt
+- Products (JSON): https://dp-studio.zappy5.app/products.json
+- Products (Google Merchant RSS): https://dp-studio.zappy5.app/product-feed.xml
